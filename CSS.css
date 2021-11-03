@@ -1,11 +1,11 @@
 html, body {
   width: 100%;
-  height:100%;
+  height: 100%;
   overflow: hidden;
 }
 
 body {
-    background: linear-gradient(-45deg, #6a0084, #950071, #b10059, #c10040, #c72d26, #c45200)
+    background: linear-gradient(-45deg, #6a0084, #950071, #b10059, #c10040, #c72d26, #c45200);
     background-size: 400% 400%;
     animation: gradient 20s ease infinite;
 }
